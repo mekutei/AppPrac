@@ -17,3 +17,6 @@
 # だけど .png だけは無視したくない
 #img/*.*
 #!.png
+
+Practice/PracticeTests/*.*
+Practice/PracticeUITests/*.*
