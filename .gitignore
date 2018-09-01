@@ -20,4 +20,4 @@
 
 PracticeTests/*.*
 PracticeUITests/*.*
-Practice.xcodeproj/
+Practice.xcodeproj/*.*
